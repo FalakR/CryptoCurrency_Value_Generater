@@ -6,3 +6,4 @@ Gives the value of the cryptocurrency inputted in form of a table (prettytable p
  2. Then : python3 main.py
 
 # Image: 
+![Image.png](Image.png)
