@@ -1,4 +1,4 @@
-# Crypto_Scraper
+# CryptoCurrency Value Generator
 Gives the value of the cryptocurrency inputted in form of a table (prettytable package). It refreshes after every 3 seconds. Additionally, api_key is an environment variable that has to be inputted before running main.py. It uses the iexcloud api. 
 
 # Instructions on Running: 
